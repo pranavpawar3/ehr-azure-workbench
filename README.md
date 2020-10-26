@@ -1,4 +1,5 @@
 <!--- **P.S. The API service is turned off temporarily, kindly let us know on mail pranavpawar3@gmail.com, if you wish to access the API, we will start the service from our end**--->
+**Please note that app link is changed to https://ehr-nrsseu.azurewebsites.net/applications/1/workflows/1 ; previous link in documentation is disabled due to Azure subscription changes.**
 
 # ehr-azure-workbench
 Spinoff application for MTX Hackolympics
