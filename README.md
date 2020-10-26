@@ -1,4 +1,4 @@
-**P.S. The API service is turned off temporarily, kindly let us know on mail pranavpawar3@gmail.com, if you wish to access the API, we will start the service from our end**
+<!--- **P.S. The API service is turned off temporarily, kindly let us know on mail pranavpawar3@gmail.com, if you wish to access the API, we will start the service from our end**--->
 
 # ehr-azure-workbench
 Spinoff application for MTX Hackolympics
